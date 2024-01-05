@@ -1,1 +1,21 @@
+<!doctype html>
+<head>
+<html lang="en">
+<meta charset="utf-8>
+<meta name="viewport" width="device-width
+<link rel="stylesheet" href="style.css">
+<title>LASPRO</title>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li>Education</li>
+<li>Ecology</li>
+<li>leisure time</li>
+</ul>
+</nav>
+</header>
+</body>
+</html>
 
